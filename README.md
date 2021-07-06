@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AkramIsmail
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Frontend Development
-- 💞️ I’m looking to collaborate on Etrade Systems
 - 📫 How to reach me akram.ismail.1011@gmail.com
 
 <!---
